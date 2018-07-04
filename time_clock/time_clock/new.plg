@@ -1,0 +1,198 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\new3(¸Ä2¶¨Ê±Æ÷£©\new.uvproj
+Project File Date:  09/08/2017
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=60.2 xdata=0 code=1572
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=60.2 xdata=0 code=1572
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=60.2 xdata=0 code=1572
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=60.2 xdata=0 code=1566
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=62.2 xdata=0 code=1592
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=62.2 xdata=0 code=1592
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETTIME?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SETDATE?NEW
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?STOPWATCH?NEW
+Program Size: data=62.2 xdata=0 code=1588
+creating hex file from "new"...
+"new" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+Program Size: data=62.2 xdata=0 code=1597
+creating hex file from "new"...
+"new" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+new.c(230): error C141: syntax error near '1'
+new.c(230): error C141: syntax error near ')'
+new.c(232): error C172: 'case': missing enclosing switch
+new.c(246): error C171: 'break': missing enclosing loop
+new.c(247): error C172: 'case': missing enclosing switch
+new.c(261): error C171: 'break': missing enclosing loop
+new.c(262): error C172: 'case': missing enclosing switch
+new.c(276): error C171: 'break': missing enclosing loop
+new.c(282): error C202: 'P39': undefined identifier
+new.c(284): error C202: 'P39': undefined identifier
+new.c(286): error C202: 'P39': undefined identifier
+new.c(317): error C141: syntax error near '/'
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+new.c(230): error C141: syntax error near '1'
+new.c(230): error C141: syntax error near ')'
+new.c(232): error C172: 'case': missing enclosing switch
+new.c(246): error C171: 'break': missing enclosing loop
+new.c(247): error C172: 'case': missing enclosing switch
+new.c(261): error C171: 'break': missing enclosing loop
+new.c(262): error C172: 'case': missing enclosing switch
+new.c(276): error C171: 'break': missing enclosing loop
+new.c(317): error C141: syntax error near '/'
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+new.c(230): error C141: syntax error near '1'
+new.c(230): error C141: syntax error near ')'
+new.c(232): error C172: 'case': missing enclosing switch
+new.c(246): error C171: 'break': missing enclosing loop
+new.c(247): error C172: 'case': missing enclosing switch
+new.c(261): error C171: 'break': missing enclosing loop
+new.c(262): error C172: 'case': missing enclosing switch
+new.c(276): error C171: 'break': missing enclosing loop
+new.c(308): error C141: syntax error near '/'
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+new.c(308): error C141: syntax error near '/'
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ALARMCLOCK?NEW
+Program Size: data=62.2 xdata=0 code=1822
+creating hex file from "new"...
+"new" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+Program Size: data=62.2 xdata=0 code=1825
+creating hex file from "new"...
+"new" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+new.c(290): error C141: syntax error near 'else'
+new.c(292): error C231: 'beep': redefinition
+new.c(292): error C231: 'beep': redefinition
+new.c(293): error C231: 'beepflag': redefinition
+new.c(294): error C141: syntax error near '}'
+new.c(295): error C141: syntax error near '==', expected ')'
+new.c(297): error C279: 'beep': multiple initialization
+new.c(297): error C231: 'beep': redefinition
+new.c(297): error C231: 'beep': redefinition
+new.c(298): error C141: syntax error near '1'
+new.c(298): error C231: '_Delay_ms': redefinition
+new.c(299): error C279: 'beep': multiple initialization
+new.c(299): error C231: 'beep': redefinition
+new.c(299): error C231: 'beep': redefinition
+new.c(300): error C141: syntax error near '1'
+new.c(300): error C231: '_Delay_ms': redefinition
+new.c(301): error C141: syntax error near '}'
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling new.c...
+linking...
+Program Size: data=62.2 xdata=0 code=1808
+creating hex file from "new"...
+"new" - 0 Error(s), 0 Warning(s).
